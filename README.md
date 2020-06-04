@@ -2,7 +2,7 @@
 
 Various simulations of beam optics in MATLAB.
 
-- Fresnel propagation (FresnelProp.m): function to propagate an optical field
+- Fresnel propagation (FresnelProp.m): function to numerically propagate an optical field
 - LG <--> HG mode converter (ModeConv_LGHG.m): script to simulate an optical setup which converts between Laguerre-Gauss and Hermite-Gauss modes
 
 

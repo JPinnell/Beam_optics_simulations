@@ -2,7 +2,8 @@
 
 Various simulations of beam optics in MATLAB.
 
-- LG <--> HG mode converter (ModeConv_LGHG.m): simulates an optical setup to convert between Laguerre-Gauss and Hermite-Gauss modes
+- Fresnel propagation (FresnelProp.m): function to propagate an optical field
+- LG <--> HG mode converter (ModeConv_LGHG.m): script to simulate an optical setup which converts between Laguerre-Gauss and Hermite-Gauss modes
 
 
 Beam families:

@@ -6,6 +6,7 @@ Various simulations of beam optics in MATLAB.
 - LG <--> HG mode converter (ModeConv_LGHG.m): script to simulate an optical setup which converts between Laguerre-Gauss and Hermite-Gauss modes
 
 
-Beam families:
+Orthogonal modes:
 - Laguerre Gauss modes (LG.m)
 - Hermite Gauss modes (HG.m)
+- Zernike phase maps (Zernike.m)
